@@ -32,6 +32,9 @@ public class countmax_char
 
         		}
         		map.put(letters[i], count);
+        		
+        		
+        		
         	}
             
             
